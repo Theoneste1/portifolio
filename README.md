@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Olivier**
+👤 **Theoneste**
 
 - GitHub: [@Theoenste1](https://github.com/Theoneste1)
 
