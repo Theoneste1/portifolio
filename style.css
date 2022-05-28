@@ -54,7 +54,7 @@ h1 {
   height: 24px;
   font-weight: 500;
   border-style: solid;
-  border-color: rgb(8, 161, 67); 
+  border-color: rgb(8, 161, 67);
 }
 
 .connect h4 {
@@ -64,6 +64,7 @@ h1 {
   padding-bottom: 3px;
   color: #7f8cff;
 }
+
 .logo {
   padding-left: 24px;
   width: 99px;
