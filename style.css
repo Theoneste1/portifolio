@@ -1,10 +1,10 @@
-* {
+ *{
   padding: 0;
   box-sizing: border-box;
   margin: 0;
   text-decoration: none;
   list-style: none;
-}
+} 
 
 .header {
   background-color: #fff;
@@ -62,10 +62,10 @@ h1 {
   color: #6070ff;
 }
 
-.intro {
+ .intro {
   background-image: url(./photos/background.png);
   background-repeat: no-repeat;
-}
+} 
 
 .ul-list-icons {
   display: flex;
