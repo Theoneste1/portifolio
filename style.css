@@ -12,6 +12,15 @@
   flex-direction: row;
 }
 
+
+.nav {
+  text-align: right;
+  padding-left: 225px;
+  padding-top: 20px;
+  width: 16px;
+}
+
+
 h1 {
   color: #172b4d;
   font-size: 49px;
@@ -25,6 +34,8 @@ h1 {
   display: flex;
   align-items: center;
 }
+
+
 
 .prg {
   padding-top: 12px;
@@ -40,12 +51,18 @@ h1 {
   margin: 12px 0;
 }
 
-.nav {
-  text-align: right;
-  padding-left: 225px;
-  padding-top: 20px;
-  width: 16px;
+.connect {
+  width: 139px;
+  height: 24px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  padding-bottom: 12px;
+  margin-left: 24px;
+  color: #7f8cff;
 }
+
 
 .logo {
   padding-left: 24px;
@@ -76,14 +93,4 @@ h1 {
   padding-bottom: 136px;
 }
 
-.connect {
-  width: 139px;
-  height: 24px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  padding-bottom: 12px;
-  margin-left: 24px;
-  color: #7f8cff;
-}
+
